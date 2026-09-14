@@ -177,6 +177,3 @@ main { display: flex; flex-direction: column; }
   .personal-heading h2 { margin: 20px 0; }
   .personal-grid { grid-template-columns: 1fr; gap: 38px; }
 }
-
-/* Lightweight publish edition: one making-film card */
-.making-grid { grid-template-columns: 1fr; max-width: 920px; }
